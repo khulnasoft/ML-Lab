@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/khulnasoft/ml-lab/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/khulnasoft/ml-lab/py-ml-lab"></a>
     <a href="https://github.com/khulnasoft/ml-lab/blob/master/LICENSE" title="ML Lab License"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg"></a>
-    <a href="https://api.reuse.software/info/github.com/khulnasoft/ml-lab" title="REUSE status"><img src="https://api.reuse.software/badge/github.com/khulnasoft/ml-lab"></a>
+    [![REUSE status](https://api.reuse.software/badge/github.com/khulnasoft/ml-lab)](https://api.reuse.software/info/github.com/khulnasoft/ml-lab)
 </p>
 
 <p align="center">
