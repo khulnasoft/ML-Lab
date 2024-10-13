@@ -48,7 +48,7 @@ setup(
     install_requires=[
         "fastapi",
         "loguru",
-        "docknet==0.0.23",
+        "docknet",
         "email-validator"
     ],
     # deprecated: dependency_links=dependency_links,
